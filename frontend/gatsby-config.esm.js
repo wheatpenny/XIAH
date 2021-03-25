@@ -6,5 +6,6 @@ export default {
     twitter: '@levisigworth',
   },
   plugins: [
+    'gatsby-plugin-react-helmet',
   ],
 };
