@@ -1,10 +1,2 @@
-/**
- * Configure your Gatsby site with this file.
- *
- * See: https://www.gatsbyjs.com/docs/gatsby-config/
- */
-
-module.exports = {
-  /* Your site config here */
-  plugins: [],
-}
+const requireEsm = require('esm')(module);
+module.exports = requireEsm('./gatsby-config.esm.js');
