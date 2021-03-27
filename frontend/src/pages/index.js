@@ -5,7 +5,14 @@ export default function Home() {
   return (
     <>
       <SEO title="Home" />
-      <div>Hello world!</div>
+      <div>
+        <h1>Typography Testing</h1>
+        <p>hello world</p>
+        <ul>
+          <li>first</li>
+          <li>second</li>
+        </ul>
+      </div>
     </>
   );
 }
