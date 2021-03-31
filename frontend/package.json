@@ -24,6 +24,7 @@
     }
   },
   "dependencies": {
+    "@fontsource/lato": "^4.2.2",
     "esm": "^3.2.25",
     "gatsby": "^3.1.1",
     "gatsby-plugin-react-helmet": "^4.1.0",
@@ -31,9 +32,7 @@
     "react": "^17.0.1",
     "react-dom": "^17.0.1",
     "react-helmet": "^6.1.0",
-    "react-typography": "^0.16.19",
-    "typography": "^0.16.19",
-    "typography-theme-noriega": "^0.16.19"
+    "styled-components": "^5.2.3"
   },
   "devDependencies": {
     "babel-eslint": "^10.1.0",
