@@ -6,12 +6,26 @@ export default function Home() {
     <>
       <SEO title="Home" />
       <div>
-        <h1>Typography Testing</h1>
-        <p>hello world</p>
+        <h1>XIAH is Levi Sigworth</h1>
+        <p>I build boringly deployable websites with</p>
         <ul>
-          <li>first</li>
-          <li>second</li>
+          <li>Drupal</li>
+          <li>Gatsby</li>
+          <li>Next</li>
         </ul>
+        <p>I help </p>
+        <ul>
+          <li>Small businesses</li>
+          <li>Agencies</li>
+        </ul>
+        <p>
+          who want to make iterative change to their websites and web
+          applications.
+        </p>
+        <p>
+          Contact me on{' '}
+          <a href="https://www.linkedin.com/in/levisigworth">LinkedIn</a>.
+        </p>
       </div>
     </>
   );
