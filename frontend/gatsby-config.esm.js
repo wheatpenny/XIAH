@@ -6,5 +6,5 @@ export default {
       'I build resilient systems. Sometimes software. Sometimes people. Often both.',
     twitter: '@levisigworth',
   },
-  plugins: ['gatsby-plugin-react-helmet'],
+  plugins: ['gatsby-plugin-react-helmet', 'gatsby-plugin-styled-components'],
 };
