@@ -7,16 +7,29 @@ export default function Home() {
       <SEO title="Home" />
       <div>
         <h1>XIAH is Levi Sigworth</h1>
+        <img src="icon.svg" alt="XIAH, LLC" />
         <p>I build boringly deployable websites with</p>
         <ul>
-          <li>Drupal</li>
-          <li>Gatsby</li>
-          <li>Next</li>
+          <li>
+            <img src="logos/drupal-logo.svg" alt="Drupal" />
+          </li>
+          <li>
+            <img src="logos/gatsby-logo.svg" alt="Gatsby" />
+          </li>
+          <li>
+            <img src="logos/nextjs-logo.svg" alt="Next.js" />
+          </li>
         </ul>
         <p>I help </p>
         <ul>
-          <li>Small businesses</li>
-          <li>Agencies</li>
+          <li>
+            <img src="logos/small-business.svg" alt="Small businesses" />
+            Small businesses
+          </li>
+          <li>
+            <img src="logos/agency.svg" alt="Agencies" />
+            Agencies
+          </li>
         </ul>
         <p>
           who want to make iterative change to their websites and web
