@@ -19,7 +19,7 @@ export default {
         background_color: `#f7f0eb`,
         theme_color: `#a2466c`,
         display: `standalone`,
-        icon: `src/static/icon.svg`,
+        icon: `static/icon.svg`,
       },
     },
   ],
