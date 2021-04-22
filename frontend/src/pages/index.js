@@ -1,13 +1,13 @@
 import React from 'react';
+import HomepageHero from '../components/HomepageHero';
 import SEO from '../components/SEO';
 
 export default function Home() {
   return (
     <>
       <SEO title="Home" />
-      <div>
-        <h1>XIAH is Levi Sigworth</h1>
-        <img src="icon.svg" alt="XIAH, LLC" />
+      <main>
+        <HomepageHero />
         <p>I build boringly deployable websites with</p>
         <ul>
           <li>
@@ -39,7 +39,7 @@ export default function Home() {
           Contact me on{' '}
           <a href="https://www.linkedin.com/in/levisigworth">LinkedIn</a>.
         </p>
-      </div>
+      </main>
     </>
   );
 }
