@@ -13,6 +13,7 @@ const HeroStyles = styled.div`
 
   .hero--image {
     justify-self: end;
+    height: calc(var(--space-unit) * 6);
   }
 `;
 
