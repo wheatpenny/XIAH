@@ -18,7 +18,7 @@
   },
   "homepage": "https://github.com/wheatpenny/XIAH#readme",
   "devDependencies": {
-    "commitizen": "^4.2.3",
+    "commitizen": "^4.2.4",
     "cz-conventional-changelog": "^3.3.0"
   },
   "config": {
