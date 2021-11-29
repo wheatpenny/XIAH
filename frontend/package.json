@@ -28,7 +28,7 @@
     "babel-plugin-styled-components": "^1.13.3",
     "esm": "^3.2.25",
     "gatsby": "^3.1.1",
-    "gatsby-plugin-gatsby-cloud": "^2.3.0",
+    "gatsby-plugin-gatsby-cloud": "^4.2.0",
     "gatsby-plugin-manifest": "^3.3.0",
     "gatsby-plugin-react-helmet": "^4.1.0",
     "gatsby-plugin-styled-components": "^4.3.0",
