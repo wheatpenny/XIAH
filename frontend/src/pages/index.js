@@ -12,7 +12,7 @@ export default function Home() {
       <main>
         <HomepageHero />
         <CardBlock>
-          <p>I build boringly deployable websites with</p>
+          <p>I build deployable websites with</p>
           <CardList>
             <CardItem>
               <img src="logos/drupal-logo.svg" alt="Drupal" />
